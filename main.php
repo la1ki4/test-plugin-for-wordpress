@@ -17,15 +17,6 @@ Details:
 Set up a standard WordPress plugin structure with a main PHP file and a README.
 The plugin should be able to activate and deactivate cleanly, without errors.
 */
-
-
-/*
-1. Plugin Initialization and Setup
-Objective: Create a basic WordPress plugin.
-Details:
-Set up a standard WordPress plugin structure with a main PHP file and a README.
-The plugin should be able to activate and deactivate cleanly, without errors.
-*/
 function main_activate() {
     error_log('My test plugin activated!');
 }
