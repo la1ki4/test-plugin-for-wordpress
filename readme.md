@@ -13,7 +13,7 @@
 The plugin, created for the test task.
 
 ## Installation
-1. 
+1. Install a plugin by next command `git clone https://github.com/la1ki4/test-plugin-for-wordpress.git`
 2. Put plugin to next path `/wp-content/plugins/`.
 3. Download plugin **WooCommerce** by *Automattic* from next steps:
     1. Open **Плагины** section in *admin-menu*
