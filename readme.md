@@ -33,5 +33,6 @@ The plugin, created for the test task.
 1. In section *Товары → Добавить товар* from admin-menu added the field *Promotional Tag*. You can add a product with a promotional tag.
 2. In section *WooCommerce* from admin-menu added the new subsection *Product Manager*. In this subsection you can filter any products by Categories, min-max price and Stock status.
 3. In section *Товары → Вce товары* from admin-menu added the new actions (Update all, Update selected, Update Single). You can see that actions when you click *Действия*. Action *Update all* changes price of all products. Action *Update selected* changes price of choosen products. Action *Update single* changes price only one product.
+4. In shop added limitation for products count to optimize web-page
 
 
